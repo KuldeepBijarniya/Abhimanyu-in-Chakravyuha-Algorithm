@@ -35,14 +35,22 @@ The algorithm outputs `Yes` if Abhimanyu can cross all 11 circles successfully, 
 
 #### Test Case 1
 **Input:**
+
 1 2 3 4 5 6 9 8 9 10 11
+
 55 2 0
+
 **Output:**
+
 Yes
 
 #### Test Case 2
 **Input:**
+
 1 2 8 4 5 6 9 8 9 10 11
+
 10 1 0
+
 **Output:**
+
 No
